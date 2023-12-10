@@ -29,9 +29,9 @@ Qiitaとzennの記事一覧です。
 3. [Linux22.04+Go(1.21)+GoCV(go言語のOpenCV)でQRコード読み込みしてみた。](https://zenn.dev/rg687076/articles/7c830a773cd1ca)
 
 # 環境構築
-1. [[環境構築]VirtualBox上のLinux22.04でカメラを使う。](https://zenn.dev/rg687076/articles/8174f50cc2475a)
-2. [[環境構築]VirtualBoxに日本語版Ubuntu22.04をインストールする。](https://zenn.dev/rg687076/articles/795f4307117d35)
-3. [[環境構築]VirtualBox+Ubuntu22.04にVSCodeをインストールする。](https://zenn.dev/rg687076/articles/70af339b8b5ba6)
+1. [[環境構築]VirtualBoxに日本語版Ubuntu22.04をインストールする。](https://zenn.dev/rg687076/articles/795f4307117d35)
+2. [[環境構築]VirtualBox+Ubuntu22.04にVSCodeをインストールする。](https://zenn.dev/rg687076/articles/70af339b8b5ba6)
+3. [[環境構築]VirtualBox上のLinux22.04でカメラを使う。](https://zenn.dev/rg687076/articles/8174f50cc2475a)
 
 # Docker
 1. [そもそも、Dockerって何者なん？](https://zenn.dev/rg687076/articles/4498dc9fc9d4da)
