@@ -42,6 +42,8 @@ Qiitaとzennの記事一覧です。
 # C++
 1. [VirtualBox+Ubuntu22.04+VSCodeで、C++の開発環境を構築する。(ついでにOpenCVも)](https://zenn.dev/rg687076/articles/64c07d8a0750d0)
 2. ["ソ能表"問題](https://qiita.com/aaaa1597/items/d8541ad7b5b6a95bc6ac)
+3. [[Windows/vs2019]CMakeを使わずにBlenderをビルドしてみた。](https://qiita.com/aaaa1597/items/af338da36ce1947ea07d)
+4. [[Windows/vs2019/CMake]Blenderをビルドしてみた。](https://qiita.com/aaaa1597/items/76664f3cb6997a27dd02)
 
 # Chat-GPT
 1. [[AI]Chat-GPTでOpenCVのコードを書かせてみた。(C++編)](https://zenn.dev/rg687076/articles/bfee0daafb6911)
@@ -59,3 +61,5 @@ Qiitaとzennの記事一覧です。
 1. [[tips/gif]Gifファイルに手軽に文字を追加する(Gifntext)](https://zenn.dev/rg687076/articles/13cc64899904aa)
 2. [自前で行列同士の積を実装した時の、検算方法](https://qiita.com/aaaa1597/items/d4b6b33259f6eb04fb65)
 3. [知っとくと便利なコマンドやら設定やら](https://qiita.com/aaaa1597/items/f591fbd6fce518592eed)
+4. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
+5. 
