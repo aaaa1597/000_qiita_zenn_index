@@ -16,8 +16,6 @@ Qiitaとzennの記事一覧です。
 5. [Githubに登録したReact+TypeScriptのプロジェクトを開始する。](https://zenn.dev/rg687076/articles/b33ad59652c6f2)
 6. [React+TypeScriptのプロジェクト雛形をgithubに置いとく話。](https://zenn.dev/rg687076/articles/cb8531be2d5cd6)
 7. [[React+TypeScript+VSCode]React公式チュートリアルをTypeScriptで作ってみた。](https://zenn.dev/rg687076/articles/7770d0eb164052)
-8. 
-- [React+TypeScriptのプロジェクト雛形生成をBashで。]()
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
