@@ -14,9 +14,10 @@ Qiitaとzennの記事一覧です。
 3. [Ubuntu22.04+VSCode+React+TypeScriptの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/5912e808924d28)
 4. [React+TypeScriptのプロジェクトをGithubに登録してみる。](https://zenn.dev/rg687076/articles/fc4f3c627820fd)
 5. [Githubに登録したReact+TypeScriptのプロジェクトを開始する。](https://zenn.dev/rg687076/articles/b33ad59652c6f2)
-6. [React+TypeScriptのプロジェクト雛形をgithubに置いとく話。](https://zenn.dev/rg687076/articles/cb8531be2d5cd6)
-7. [[React+TypeScript+VSCode]React公式チュートリアルをTypeScriptで作ってみた。](https://zenn.dev/rg687076/articles/7770d0eb164052)
-8. [React + TypeScript + Eslintのエラーで苦しんだことのまとめ。](https://qiita.com/aaaa1597/items/497e2a5007c64bdfa804)
+6. [[無料]HelloWorldなWebアプリを公開してみた。(Github Pagesの初め方)]
+7. [React+TypeScriptのプロジェクト雛形をgithubに置いとく話。](https://zenn.dev/rg687076/articles/cb8531be2d5cd6)
+8. [[React+TypeScript+VSCode]React公式チュートリアルをTypeScriptで作ってみた。](https://zenn.dev/rg687076/articles/7770d0eb164052)
+9. [React + TypeScript + Eslintのエラーで苦しんだことのまとめ。](https://qiita.com/aaaa1597/items/497e2a5007c64bdfa804)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
