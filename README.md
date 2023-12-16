@@ -19,6 +19,7 @@ Qiitaとzennの記事一覧です。
 8. [[React+TypeScript+VSCode]React公式チュートリアルをTypeScriptで作ってみた。](https://zenn.dev/rg687076/articles/7770d0eb164052)
 9. [React + TypeScript + Eslintのエラーで苦しんだことのまとめ。](https://qiita.com/aaaa1597/items/497e2a5007c64bdfa804)
 10. [React+TypeScriptなWebアプリで、QRコード読み込みしてみる。(jsQRで)](https://zenn.dev/rg687076/articles/542b3c3061e86a)
+11. [React+TypeScriptなQRコードリーダ(zxing)で矩形を描く。](https://zenn.dev/rg687076/articles/810f8a2bf4de26)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
