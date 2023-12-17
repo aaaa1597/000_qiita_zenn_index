@@ -23,7 +23,7 @@ Qiitaとzennの記事一覧です。
 12. [React+TypeScriptなWebアプリで、QRコード読み込みしてみる。(zxingで)](https://zenn.dev/rg687076/articles/8ddf91ed59c549)
 13. [React+TypeScriptなQRコードリーダ(zxing)で矩形を描く。](https://zenn.dev/rg687076/articles/810f8a2bf4de26)
 <br />--- three.js
-15. [React+TypeScriptなWebアプリで、three.jsで、3D表示の最初の一歩。"React Three Fiber"なしで。](https://zenn.dev/rg687076/articles/b1f11544e393a2)
+15. [React+TypeScriptなWebアプリで、three.jsを使った3D表示の最初の一歩。"React Three Fiber"なしで。](https://zenn.dev/rg687076/articles/b1f11544e393a2)
 <br />--- tips
 16. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
