@@ -28,8 +28,10 @@ Qiitaとzennの記事一覧です。
 16. [React+TypeScriptなWebアプリで、"React Three Fiber"の3D表示の2歩目。](https://zenn.dev/rg687076/articles/fdf24136da024f)
 <br />--- react three fiber<br/>
 17. [React+TypeScriptなWebアプリで、react-three-fiberのtutorialその1](https://zenn.dev/rg687076/articles/9cc88dd8a7cb3a)
+18. [React+TypeScriptなWebアプリで、react-three-fiberのtutorialその2](https://zenn.dev/rg687076/articles/52369828c0711e)
+18. [React+TypeScriptなWebアプリで、react-three-fiberのtutorialその3](https://zenn.dev/rg687076/articles/xxxxxxxxxxxxxx)
 <br />--- tips<br/>
-18. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
+19. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
