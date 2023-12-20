@@ -23,13 +23,13 @@ Qiitaとzennの記事一覧です。
 12. [React+TypeScriptなWebアプリで、QRコード読み込みしてみる。(zxingで)](https://zenn.dev/rg687076/articles/8ddf91ed59c549)
 13. [React+TypeScriptなQRコードリーダ(zxing)で矩形を描く。](https://zenn.dev/rg687076/articles/810f8a2bf4de26)
 <br />--- three.js
-15. [React+TypeScriptなWebアプリで、three.jsを使った3D表示の最初の一歩。"React Three Fiber"なしで。](https://zenn.dev/rg687076/articles/b1f11544e393a2)
-16. [React+TypeScriptなWebアプリで、"React Three Fiber"の3D表示の最初の一歩。](https://zenn.dev/rg687076/articles/865885e3eca16f)
-17. [React+TypeScriptなWebアプリで、"React Three Fiber"の3D表示の2歩目。](https://zenn.dev/rg687076/articles/fdf24136da024f)
+14. [React+TypeScriptなWebアプリで、three.jsを使った3D表示の最初の一歩。"React Three Fiber"なしで。](https://zenn.dev/rg687076/articles/b1f11544e393a2)
+15. [React+TypeScriptなWebアプリで、"React Three Fiber"の3D表示の最初の一歩。](https://zenn.dev/rg687076/articles/865885e3eca16f)
+16. [React+TypeScriptなWebアプリで、"React Three Fiber"の3D表示の2歩目。](https://zenn.dev/rg687076/articles/fdf24136da024f)
 <br />--- react three fiber<br/>
-18. [React+TypeScriptなWebアプリで、react-three-fiberのtutorialその1](https://zenn.dev/rg687076/articles/9cc88dd8a7cb3a)
+17. [React+TypeScriptなWebアプリで、react-three-fiberのtutorialその1](https://zenn.dev/rg687076/articles/9cc88dd8a7cb3a)
 <br />--- tips<br/>
-19. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
+18. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
