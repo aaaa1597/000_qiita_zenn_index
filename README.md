@@ -32,10 +32,12 @@ Qiitaとzennの記事一覧です。
 18. [React+TypeScriptなWebアプリで、R3Fのtutorial3.(useEffectとuseLayoutEffect)](https://zenn.dev/rg687076/articles/xxxxxxxxxxxxxx)
 18. [React+TypeScriptなWebアプリで、R3Fのtutorial4.(マウスイベントの使い方)](https://zenn.dev/rg687076/articles/c2405f30d0b41a)
 19. [React+TypeScriptなWebアプリで、R3Fのtutorial5.(useFrameの使い方)](https://zenn.dev/rg687076/articles/daf085e30300ee)
+20. [React+TypeScriptなWebアプリで、R3Fのtutorial6.(useStateの使い方)](https://zenn.dev/rg687076/articles/5647046996b6a0)
+21. [React+TypeScriptなWebアプリで、R3Fのtutorial7.(統計情報の表示)](https://zenn.dev/rg687076/articles/71dd0133b4a2f4)
 <br />--- react three drei<br/>
-20. [@react-three/dreiって、TypeScriptじゃ動かんくね？1(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
+22. [@react-three/dreiって、TypeScriptじゃ動かんくね？1(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
 <br />--- tips<br/>
-21. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
+23. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
