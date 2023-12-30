@@ -39,7 +39,7 @@ Qiitaとzennの記事一覧です。
 24. [React+TypeScriptなWebアプリで、R3Fのtutorial10。(gridHelper、axesHelper)](https://zenn.dev/rg687076/articles/911598b6df3d27)
 25. [React+TypeScriptなWebアプリで、R3Fのtutorial11。(パラメータを設定できるやつ。Leva)](https://zenn.dev/rg687076/articles/0c8c507885bb05)
 26. [React+TypeScriptなWebアプリで、R3Fのtutorial12。(Materials)](https://zenn.dev/rg687076/articles/a7ceb44e8e475e)
-27. [React+TypeScriptなWebアプリで、R3Fのtutorial13。(光源(lights)を設定)]([https://zenn.dev/rg687076/articles/a7ceb44e8e475e](https://zenn.dev/rg687076/articles/3213e6afe46450))
+27. [React+TypeScriptなWebアプリで、R3Fのtutorial13。(光源(lights)を設定)](https://zenn.dev/rg687076/articles/3213e6afe46450)
 28. [React+TypeScriptなWebアプリで、R3Fのtutorial14。(影(Shadow)を設定する)](https://zenn.dev/rg687076/articles/3d337be7c168b2)
 29. [React+TypeScriptなWebアプリで、R3Fのtutorial15。(useLoaderでテクスチャ読込み)](https://zenn.dev/rg687076/articles/4b4c0029410242)
 30. [React+TypeScriptなWebアプリで、R3Fのtutorial16。(GLTFloaderで3Dモデル表示)](https://zenn.dev/rg687076/articles/a782c15655d502)
