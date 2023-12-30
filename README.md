@@ -39,10 +39,17 @@ Qiitaとzennの記事一覧です。
 24. [React+TypeScriptなWebアプリで、R3Fのtutorial10。(gridHelper、axesHelper)](https://zenn.dev/rg687076/articles/911598b6df3d27)
 25. [React+TypeScriptなWebアプリで、R3Fのtutorial11。(パラメータを設定できるやつ。Leva)](https://zenn.dev/rg687076/articles/0c8c507885bb05)
 26. [React+TypeScriptなWebアプリで、R3Fのtutorial12。(Materials)](https://zenn.dev/rg687076/articles/a7ceb44e8e475e)
+27. [React+TypeScriptなWebアプリで、R3Fのtutorial13。(光源(lights)を設定)]([https://zenn.dev/rg687076/articles/a7ceb44e8e475e](https://zenn.dev/rg687076/articles/3213e6afe46450))
+28. [React+TypeScriptなWebアプリで、R3Fのtutorial14。(影(Shadow)を設定する)](https://zenn.dev/rg687076/articles/3d337be7c168b2)
+29. [React+TypeScriptなWebアプリで、R3Fのtutorial15。(useLoaderでテクスチャ読込み)](https://zenn.dev/rg687076/articles/4b4c0029410242)
+30. [React+TypeScriptなWebアプリで、R3Fのtutorial16。(GLTFloaderで3Dモデル表示)](https://zenn.dev/rg687076/articles/a782c15655d502)
+31. [React+TypeScriptなWebアプリで、R3Fのtutorial17。(Environmentで簡単背景描画)](https://zenn.dev/rg687076/articles/9c218a190451d0)
+32. [React+TypeScriptなWebアプリで、R3Fのtutorial18。(GLTFJSXでモデル制御)](https://zenn.dev/rg687076/articles/67c0b067ea9171)
+33. [React+TypeScriptなWebアプリで、R3Fのtutorial19。(Custom Hooksで自作イベント)](https://zenn.dev/rg687076/articles/e67d7fed50966a)
 <br />--- react three drei<br/>
-27. [@react-three/dreiって、TypeScriptじゃ動かんくね？1(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
+34. [@react-three/dreiって、TypeScriptじゃ動かんくね？1(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
 <br />--- tips<br/>
-28. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
+35. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
