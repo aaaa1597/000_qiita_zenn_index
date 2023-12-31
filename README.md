@@ -47,6 +47,7 @@ Qiitaとzennの記事一覧です。
 31. [React+TypeScriptなWebアプリで、R3Fのtutorial17。(Environmentで簡単背景描画)](https://zenn.dev/rg687076/articles/9c218a190451d0)
 32. [React+TypeScriptなWebアプリで、R3Fのtutorial18。(GLTFJSXでモデル制御)](https://zenn.dev/rg687076/articles/67c0b067ea9171)
 33. [React+TypeScriptなWebアプリで、R3Fのtutorial19。(Custom Hooksで自作イベント)](https://zenn.dev/rg687076/articles/e67d7fed50966a)
+34. [React+TypeScriptなWebアプリで、R3Fのtutorial19-2。(Annotationsで注釈表示)](https://zenn.dev/rg687076/articles/06ab7182758c28)
 <br />--- react three fiber(応用編)<br/>
 
 <br />--- react three drei<br/>
