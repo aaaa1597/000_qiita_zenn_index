@@ -50,6 +50,8 @@ Qiitaとzennの記事一覧です。
 34. [React+TypeScriptなWebアプリで、R3Fのtutorial19-2。(Annotationsで注釈表示)](https://zenn.dev/rg687076/articles/06ab7182758c28)
 <br />--- react three fiber(応用編)<br/>
 
+<br />--- tween.js<br/>
+
 <br />--- react three drei<br/>
 35. [@react-three/dreiって、TypeScriptじゃ動かんくね？1(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
 <br />--- tips<br/>
