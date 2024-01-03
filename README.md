@@ -54,7 +54,9 @@ Qiitaとzennの記事一覧です。
 <br />--- tween.js<br/>
 
 <br />--- react three drei<br/>
-35. [@react-three/dreiって、TypeScriptじゃ動かんくね？1(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
+1. [@react-three/dreiって、TypeScriptじゃ動かんくね？001(PerspectiveCamera)](https://zenn.dev/rg687076/articles/dbb44a54aa4607)
+2. 
+3. [@react-three/dreiって、TypeScriptじゃ動かんくね？x(react-three-fiber TypeScript)](https://zenn.dev/rg687076/articles/b382de9a3200a7)
 <br />--- tips<br/>
 36. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
