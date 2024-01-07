@@ -58,6 +58,8 @@ Qiitaとzennの記事一覧です。
 3. [React+TypeScript+R3Fのtutorial応用編3(glTFで3Dアニメーション(単一モデル))](https://zenn.dev/rg687076/articles/7820cee0480eeb)
 4. [React+TypeScript+R3Fのtutorial応用編4(glTFで3Dアニメーション(モデルとモーション別々ファイル読込み))](https://zenn.dev/rg687076/articles/7446f24b093b01)
 5. [React+TypeScript+R3Fのtutorial応用編5(glTFで3Dアニメーション(モーション切替え))](https://zenn.dev/rg687076/articles/5c84eaf7d175b4)
+6. [React+TypeScript+R3Fのtutorial応用編6(FBXモデル表示)](https://zenn.dev/rg687076/articles/581c5a4715fa40)
+7. [React+TypeScript+R3Fのtutorial応用編7(FBXモデルでアニメーション)](https://zenn.dev/rg687076/articles/8da7759c42058b)
 
 <br />--- tween.js<br/>
 
