@@ -124,3 +124,4 @@ Qiitaとzennの記事一覧です。
 5. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
 6. [DenoでOpenCVを型情報ありで使ってみる](https://qiita.com/masaminh/items/20ace39a5a6da827638c)
 7. [[C++/WASM] Emscriptenの使い方メモ](https://jumble-note.blogspot.com/2022/06/cwasm-emscripten.html)
+8. [Embind](https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html?source=post_page-----104de087b033--------------------------------)
