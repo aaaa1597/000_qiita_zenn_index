@@ -117,5 +117,8 @@ Qiitaとzennの記事一覧です。
 1. [[tips/gif]Gifファイルに手軽に文字を追加する(Gifntext)](https://zenn.dev/rg687076/articles/13cc64899904aa)
 2. [自前で行列同士の積を実装した時の、検算方法](https://qiita.com/aaaa1597/items/d4b6b33259f6eb04fb65)
 3. [知っとくと便利なコマンドやら設定やら](https://qiita.com/aaaa1597/items/f591fbd6fce518592eed)
-4. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
-5. 
+
+# 調査中
+1. [Bind C++ to Typescript in Web Assembly](https://medium.com/@stephane_21545/bind-c-to-typescript-in-web-assembly-104de087b033)
+5. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
+6. 
