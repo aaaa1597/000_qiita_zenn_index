@@ -122,4 +122,4 @@ Qiitaとzennの記事一覧です。
 1. [Bind C++ to Typescript in Web Assembly](https://medium.com/@stephane_21545/bind-c-to-typescript-in-web-assembly-104de087b033)
 2. [WebAssemblyとWebWorkerで作るブラウザで動くWebPエンコーダー](https://zenn.dev/sora_kumo/articles/3f972d6fb4fb9c)
 5. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
-6. 
+6. [DenoでOpenCVを型情報ありで使ってみる](https://qiita.com/masaminh/items/20ace39a5a6da827638c)
