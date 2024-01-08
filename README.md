@@ -70,6 +70,10 @@ Qiitaとzennの記事一覧です。
 <br />--- tips<br/>
 36. [React+TypeScriptなWebアプリの、(?)ってオプショナルチェーンって言うらしいよ。](https://zenn.dev/rg687076/articles/90a0b53f1c415a)
 
+<br />--- WebAssembly<br/>
+1. [[環境構築]Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
+
+
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
 2. [[無料]HelloWorldなWebアプリを公開してみた。(Github Pagesの初め方)](https://zenn.dev/rg687076/articles/8806a2e2055c36)
