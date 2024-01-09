@@ -125,3 +125,6 @@ Qiitaとzennの記事一覧です。
 6. [DenoでOpenCVを型情報ありで使ってみる](https://qiita.com/masaminh/items/20ace39a5a6da827638c)
 7. [[C++/WASM] Emscriptenの使い方メモ](https://jumble-note.blogspot.com/2022/06/cwasm-emscripten.html)
 8. [Embind](https://emscripten.org/docs/porting/connecting_cpp_and_javascript/embind.html?source=post_page-----104de087b033--------------------------------)
+
+### これでビルドが通った。
+emcc -O3 --bind -msimd128 -s WASM=1 -s ALLOW_MEMORY_GROWTH=1 -s ENVIRONMENT=web,worker -s EXPORT_ES6=1 -s DYNAMIC_EXECUTION=0 -s MODULARIZE=1 src/webp.cpp -o webp_simd.js 
