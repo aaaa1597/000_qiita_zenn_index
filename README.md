@@ -98,7 +98,7 @@ Qiitaとzennの記事一覧です。
 3. [[Ubuntu22.04][docker]Dockerfileの作り方。DockerfileでVSCodeをインストールする。](https://zenn.dev/rg687076/articles/2d931160170bc7)
 
 # C++
-1. [VirtualBox+Ubuntu22.04+VSCodeで、C++の開発環境を構築する。(ついでにOpenCVも)](https://zenn.dev/rg687076/articles/64c07d8a0750d0)
+1. [[[環境構築]]VirtualBox+Ubuntu22.04+VSCodeで、C++の開発環境を構築する。(ついでにOpenCVも)](https://zenn.dev/rg687076/articles/64c07d8a0750d0)
 2. ["ソ能表"問題](https://qiita.com/aaaa1597/items/d8541ad7b5b6a95bc6ac)
 3. [[Windows/vs2019]CMakeを使わずにBlenderをビルドしてみた。](https://qiita.com/aaaa1597/items/af338da36ce1947ea07d)
 4. [[Windows/vs2019/CMake]Blenderをビルドしてみた。](https://qiita.com/aaaa1597/items/76664f3cb6997a27dd02)
