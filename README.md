@@ -74,6 +74,7 @@ Qiitaとzennの記事一覧です。
 1. [[環境構築]Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
 2. [React+TypeScriptでWebAssembly001。(自作のjsモジュール読込みやってみた)](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
 3. [React+TypeScriptでWebAssembly002。(WebAssemblyなjsモジュールを実行してみた)](https://zenn.dev/rg687076/articles/16c50b7e7cecda)
+4. [React+TypeScriptでWebAssembly003。(tsxからWebAssembly呼び出し)](https://zenn.dev/rg687076/articles/c3046a7ce3d5fb)
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
