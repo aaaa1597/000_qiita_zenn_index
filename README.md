@@ -72,7 +72,7 @@ Qiitaとzennの記事一覧です。
 
 <br />--- WebAssembly<br/>
 1. [[環境構築]Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
-2. [React+TypeScriptなWebアプリで、自作のjsモジュール読込みやってみた。](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
+2. [React+TypeScriptでWebAssembly001。(自作のjsモジュール読込みやってみた)](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
 3. [React+TypeScriptなWebアプリで、WebAssemblyを実行してみた。](https://zenn.dev/rg687076/articles/16c50b7e7cecda)
 
 # 2.Git(Github)
