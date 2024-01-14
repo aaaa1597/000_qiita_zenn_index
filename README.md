@@ -124,3 +124,4 @@ Qiitaとzennの記事一覧です。
 # 調査中
 1. [WebAssemblyとWebWorkerで作るブラウザで動くWebPエンコーダー](https://zenn.dev/sora_kumo/articles/3f972d6fb4fb9c)
 2. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
+3. [[C++] 令和最新版 C++をVisual Studio Codeで書きたい](https://jumble-note.blogspot.com/2021/02/c-cvisual-studio-code.html)
