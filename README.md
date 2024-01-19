@@ -87,7 +87,6 @@ Qiitaとzennの記事一覧です。
 12. [[環境構築]Windowsで、OpenCV+VSCode,C++,CMakeの開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/4af3cd164763b7)
 13. [[環境構築]Windowsで、VSCode,C++,CMakeの開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/034133c4b0ef64)
 14. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
-15. [[環境構築]Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
 
 
 # 2.Git(Github)
