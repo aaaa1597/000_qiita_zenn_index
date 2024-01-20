@@ -77,10 +77,9 @@ Qiitaとzennの記事一覧です。
 4. [React+TypeScriptでWebAssembly001。(自作のjsモジュール読込みやってみた)](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
 5. [React+TypeScriptでWebAssembly002。(WebAssemblyなjsモジュールを実行してみた)](https://zenn.dev/rg687076/articles/16c50b7e7cecda)
 6. [React+TypeScriptでWebAssembly003。(tsxからWebAssembly呼び出し)](https://zenn.dev/rg687076/articles/c3046a7ce3d5fb)
+8. [[環境構築]Ubuntu22.04で、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/49f1d420820500)
+----
 7. [[環境構築]Windowsで、VSCode,C++,CMakeの開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/034133c4b0ef64)
-
-8. 
-
 9. [[環境構築]Ubuntu22.04で、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/49f1d420820500)
 10. [[環境構築]Dockerで、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/4b7b933c6e45fd)
 11. [[環境構築]WebAssembly向けに、WindowsでOpenCV,VSCode,C++,CMakeの開発環境。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/85b32eb3d86473)
