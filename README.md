@@ -72,7 +72,7 @@ Qiitaとzennの記事一覧です。
 
 <br />--- WebAssembly<br/>
 1. [[環境構築]Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
-2. [[環境構築]Windowsで、CMake,VSCode,C++の開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/034133c4b0ef64)
+2. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 3. [[環境構築]Ubuntu22.04で、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/49f1d420820500)
 4. [[環境構築]Windowsでc++開発->Ubuntuでwasmビルドの開発環境(OpenCV,C++,CMake)を構築してみた。](https://zenn.dev/rg687076/articles/dda3af7887d3db)
 ----
@@ -82,7 +82,6 @@ Qiitaとzennの記事一覧です。
 7. [React+TypeScriptでWebAssembly003。(tsxからWebAssembly呼び出し)](https://zenn.dev/rg687076/articles/c3046a7ce3d5fb)
 ----
 8. [[環境構築]Dockerで、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/4b7b933c6e45fd)
-9. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 10. [[環境構築]64bit。Windowsで、OpenCV+VSCode,C++,CMakeの開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/4af3cd164763b7)
 
 
