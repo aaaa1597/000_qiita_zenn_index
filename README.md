@@ -72,7 +72,7 @@ Qiitaとzennの記事一覧です。
 
 <br />--- WebAssembly<br/>
 1. [[環境構築]Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
-2. [[環境構築]CMake+VSCode,Windows,C++の開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/034133c4b0ef64)
+2. [[環境構築]Windowsで、CMake,VSCode,C++の開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/034133c4b0ef64)
 6. [[環境構築]Ubuntu22.04で、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/49f1d420820500)
 ----
 4. [[環境構築]32bit。Windowsで"OpenCV",VSCode,C++,CMakeの開発環境。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/85b32eb3d86473)
