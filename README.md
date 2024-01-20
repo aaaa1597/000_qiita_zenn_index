@@ -83,7 +83,6 @@ Qiitaとzennの記事一覧です。
 8. [[環境構築]Dockerで、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/4b7b933c6e45fd)
 9. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 10. [[環境構築]64bit。Windowsで、OpenCV+VSCode,C++,CMakeの開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/4af3cd164763b7)
-11. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 
 
 # 2.Git(Github)
