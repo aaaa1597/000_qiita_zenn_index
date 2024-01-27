@@ -78,7 +78,7 @@ Qiitaとzennの記事一覧です。
 ----
 5. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 6. [React+TypeScriptで、自作のjsモジュール読込みやってみた。](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
-7. [React+TypeScriptでWebAssembly002。(WebAssemblyなjsモジュールを実行してみた)](https://zenn.dev/rg687076/articles/16c50b7e7cecda)
+7. [React+TypeScriptで、WebAssemblyなjsモジュールを実行してみた。](https://zenn.dev/rg687076/articles/16c50b7e7cecda)
 8. [React+TypeScriptでWebAssembly003。(tsxからWebAssembly呼び出し)](https://zenn.dev/rg687076/articles/c3046a7ce3d5fb)
 9. [React+TypeScriptでWebAssembly004。(Emscripten製jsモジュールを実行してみた)](https://zenn.dev/rg687076/articles/96d452e86c5c55)
 ----
