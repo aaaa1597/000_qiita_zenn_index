@@ -73,7 +73,7 @@ Qiitaとzennの記事一覧です。
 <br />--- WebAssembly<br/>
 1. [[環境構築]React+TypeScriptでWebAssembly001。Windowsで、WebAssemblyを初めてみた。](https://zenn.dev/rg687076/articles/c02e6e6909b7cf)
 2. [[環境構築]React+TypeScriptでWebAssembly002。WindowsでOpenCV,C++,VSCode,CMake。](https://zenn.dev/rg687076/articles/85b32eb3d86473)
-3. [[環境構築]Ubuntu22.04で、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/49f1d420820500)
+3. [[環境構築]React+TypeScriptでWebAssembly003。UbuntuでWebAssemblyビルド。](https://zenn.dev/rg687076/articles/49f1d420820500)
 4. [[環境構築]Windowsでc++開発->Ubuntuでwasmビルドの開発環境(OpenCV,C++,CMake)を構築してみた。](https://zenn.dev/rg687076/articles/dda3af7887d3db)
 ----
 5. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
