@@ -76,6 +76,8 @@ Qiitaとzennの記事一覧です。
 3. [[環境構築]React+TypeScriptでWebAssembly003。UbuntuでWebAssemblyビルド。](https://zenn.dev/rg687076/articles/49f1d420820500)
 4. [[環境構築]React+TypeScriptでWebAssembly004。WindowsでC++開発->Ubuntuでwasmビルド。](https://zenn.dev/rg687076/articles/dda3af7887d3db)
 5. [[環境構築]React+TypeScriptでWebAssembly005。C++,OpenCVでAsmビルドの開発環境を構築](https://zenn.dev/rg687076/articles/b031e166604c87)
+6. [React+TypeScriptでWebAssembly006。今回は純粋C++。OpenCV,ArUcoマーカを生成(と検出も)してみた。](https://zenn.dev/rg687076/articles/ebbcedbd15a070)
+7. [React+TypeScriptでWebAssembly007。今回も純粋C++。OpenCV,ArUcoマーカの姿勢推定してみた。](https://zenn.dev/rg687076/articles/fa61e0e7eddf95)
 ----
 5. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 6. [React+TypeScriptで、自作のjsモジュール読込みやってみた。](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
