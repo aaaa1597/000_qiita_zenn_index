@@ -79,6 +79,9 @@ Qiitaとzennの記事一覧です。
 6. [React+TypeScriptでWebAssembly006。今回は純粋C++。OpenCV,ArUcoマーカを生成(と検出も)してみた。](https://zenn.dev/rg687076/articles/ebbcedbd15a070)
 7. [React+TypeScriptでWebAssembly007。今回も純粋C++。OpenCV,ArUcoマーカの姿勢推定してみた。](https://zenn.dev/rg687076/articles/fa61e0e7eddf95)
 8. [React+TypeScriptでWebAssembly008。OpenCV,ArUcoマーカをWebAssemblyってみた。](https://zenn.dev/rg687076/articles/3908d08ea80871)
+9. [React+TypeScriptでWebAssembly009。純粋C++。OpenCV,QRコードの検出を実装してみた。](https://zenn.dev/rg687076/articles/cee7dc26cdacf7)
+10. [React+TypeScriptでWebAssembly010。Wasm。js->C++の関数呼び出し方法をまとめてみた。](https://zenn.dev/rg687076/articles/2d640f95404b4a)
+11. [React+TypeScriptでWebAssembly011。React+TypeScript。ReactTsでWasm呼び出しのまとめ](https://zenn.dev/rg687076/articles/96792e015ad528)
 ----
 5. [[環境構築]32bit。WindowsでVSCode,C++,CMakeの開発環境を構築。(コンパイラはMSVC)"OpenCV"なし。](https://zenn.dev/rg687076/articles/9258681cdc0ad0)
 6. [React+TypeScriptで、自作のjsモジュール読込みやってみた。](https://zenn.dev/rg687076/articles/ed36df1d8037e6)
