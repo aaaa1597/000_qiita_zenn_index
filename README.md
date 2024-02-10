@@ -92,6 +92,8 @@ Qiitaとzennの記事一覧です。
 10. [[環境構築]Dockerで、WebAssemblyのOpenCV,C++,CMakeの開発環境を構築してみた。](https://zenn.dev/rg687076/articles/4b7b933c6e45fd)
 11. [[環境構築]64bit。Windowsで、OpenCV+VSCode,C++,CMakeの開発環境を構築してみた。(コンパイラはMSVC)](https://zenn.dev/rg687076/articles/4af3cd164763b7)
 
+<br />--- QRコードでARってみた。/>
+1. [React+TypeScriptなWebアプリで、QRコードでARしてみた。]()
 
 # 2.Git(Github)
 1. [git pushでエラー!!Support for password authentication was removed on Au...](https://zenn.dev/rg687076/articles/1fdaff2d35c1bc)
