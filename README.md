@@ -146,3 +146,5 @@ Qiitaとzennの記事一覧です。
 
 # 調査中
 2. [Markdown+mermaidで、シーケンス図が表示されない時の解決方法](https://qiita.com/aaaa1597/items/2bfbf6772fa5ccd9266f)
+
+https://lucirc.com/stable-diffusion-hair/
