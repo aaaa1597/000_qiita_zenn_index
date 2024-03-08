@@ -135,6 +135,10 @@ Qiitaとzennの記事一覧です。
 2. [[Blender/tips/初心者]Blenderで、拡大操作したいけど、なんかマウスカーソルが画面外にいってしまう。](https://zenn.dev/rg687076/articles/45865d7cc92260)
 3. [[Blender/tips/初心者]UV Editingタブにしたのに、UVメニューが表示されない](https://zenn.dev/rg687076/articles/36ccf93a93124d)
 
+# GIMP
+1. [[GIMP]レイヤーサイズ変更の方法](https://zenn.dev/rg687076/articles/e34743e2e50919)
+
+
 # IoT
 1. [ESP32-Azure IoT Kitを動かしてみる。](https://zenn.dev/rg687076/articles/eecf1bb3a46dce)
 2. [ESP-IDFでESP32の開発(windows10で)](https://zenn.dev/rg687076/articles/d2e8264e8483b9)
